@@ -101,9 +101,10 @@ Passionate and results-driven **B.Tech student in Artificial Intelligence and Ma
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DheerajBathi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajBathi&layout=compact&theme=tokyonight)  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanthtatapudi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="200" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthtatapudi&theme=tokyonight&hide_border=true" height="200" width="440"/>
+</p>
 ---
 
 ## 🤝 Connect with Me  
